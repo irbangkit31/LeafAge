@@ -13,13 +13,17 @@ C23-PC767 is a Bangkit-made team that is assigned in order to perform Capstone P
 (CC) C115DSX4870 – Komarudin Syarif – STMIK Sinar Nusantara<br>
 (ML) M330DSY2329 – Shania Rahma Shalshabila – Universitas Riau<br>
 
-
-
 **Background Story**<br>
+Have you seen these or similar articles on the internet?
+![Monkey Pod Tree](https://github.com/irbangkit31/LeafAge/blob/9cce7cfbcc11f08dc55761af3c2fe0d334eb9771/Story%20Background%20Image.jpeg)
+
 We identified a significant environmental problem of trees falling due to old age or improper cutting, which results in safety hazards and environmental damage. We recognized the potential for an app that could provide users with prediction information and features to gather information about tree management and promote sustainable environmental practices.
+
+
 
 **Problem Statement**<br>
 This project intends to address the problem of trees falling due to aging and poor pruning. The app's primary goal is to give the users an information to estimate the age of their trees and other related information about the suitable treatment to the tree.
+
 
 
 **Research Question:**<br>
@@ -27,9 +31,12 @@ This project intends to address the problem of trees falling due to aging and po
 2. How to determine suitable treatment of the tree based on age factors?
 
 
-![Monkey Pod Tree]([Story Background Image.jpeg](https://github.com/irbangkit31/LeafAge/blob/9cce7cfbcc11f08dc55761af3c2fe0d334eb9771/Story%20Background%20Image.jpeg))
 
 **Scope and Limitation:**<br>
 Here we define the scope of the goals and requirements we intend to achieve in this project.
 1. The main feature for the app will only to determine the age of a tree and give suggestions about suitable treatment.
-2. The category of the tree will only focus on the trees that are common to be found in densely populated areas in Indonesia, Monkey Pod Tree.
+2. The category of the tree will only focus on the trees that are common to be found in densely populated areas in Indonesia, Monkey Pod Tree (Trembesi)
+
+
+**Then, What is your action?** <br>
+Want to know more about our project? Go check our repository
