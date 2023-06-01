@@ -8,11 +8,6 @@ C23-PC767 is a Bangkit-made team that is assigned in order to perform Capstone P
 (ML)  M322DSX0015 – Muhammad Afra Irwansyah – Universitas Presiden <br>
 (CC) C246DSY0791 – Ila Sahlila Bunga Fadjar – Universitas Muhammadiyah Cirebon <br>
 
-**Inactive Members:**<br>
-(ML)  M181DSX0380 – Juan De Bebetho – Universitas Indonesia<br>
-(CC) C115DSX4870 – Komarudin Syarif – STMIK Sinar Nusantara<br>
-(ML) M330DSY2329 – Shania Rahma Shalshabila – Universitas Riau<br>
-
 **Background Story**<br>
 Have you seen these or similar articles on the internet?
 ![Monkey Pod Tree](https://github.com/irbangkit31/LeafAge/blob/9cce7cfbcc11f08dc55761af3c2fe0d334eb9771/Story%20Background%20Image.jpeg)
