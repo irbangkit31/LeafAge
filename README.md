@@ -14,24 +14,25 @@ Have you seen these or similar articles on the internet?
 
 We identified a significant environmental problem of trees falling due to old age or improper cutting, which results in safety hazards and environmental damage. We recognized the potential for an app that could provide users with prediction information and features to gather information about tree management and promote sustainable environmental practices.
 
-
+<br>
 
 **Problem Statement**<br>
 This project intends to address the problem of trees falling due to aging and poor pruning. The app's primary goal is to give the users an information to estimate the age of their trees and other related information about the suitable treatment to the tree.
 
-
+<br>
 
 **Research Question:**<br>
 1. What approach to develop a mobile application to estimate the age of a tree?
 2. How to determine suitable treatment of the tree based on age factors?
 
-
+<br>
 
 **Scope and Limitation:**<br>
 Here we define the scope of the goals and requirements we intend to achieve in this project.
 1. The main feature for the app will only to determine the age of a tree and give suggestions about suitable treatment.
 2. The category of the tree will only focus on the trees that are common to be found in densely populated areas in Indonesia, Monkey Pod Tree (Trembesi)
 
+<br>
 
 **Then, What is your action?** <br>
 Want to know more about our project? Go check our repository
