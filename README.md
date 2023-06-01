@@ -27,7 +27,7 @@ This project intends to address the problem of trees falling due to aging and po
 2. How to determine suitable treatment of the tree based on age factors?
 
 
-![Monkey Pod Tree](Story Background Image.jpeg)
+![Monkey Pod Tree]([Story Background Image.jpeg](https://github.com/irbangkit31/LeafAge/blob/9cce7cfbcc11f08dc55761af3c2fe0d334eb9771/Story%20Background%20Image.jpeg))
 
 **Scope and Limitation:**<br>
 Here we define the scope of the goals and requirements we intend to achieve in this project.
