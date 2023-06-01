@@ -27,6 +27,8 @@ This project intends to address the problem of trees falling due to aging and po
 2. How to determine suitable treatment of the tree based on age factors?
 
 
+![Monkey Pod Tree](Story Background Image.jpeg)
+
 **Scope and Limitation:**<br>
 Here we define the scope of the goals and requirements we intend to achieve in this project.
 1. The main feature for the app will only to determine the age of a tree and give suggestions about suitable treatment.
