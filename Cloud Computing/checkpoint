@@ -1,2 +1,0 @@
-model_checkpoint_path: "LeafAge.weights.bin"
-all_model_checkpoint_paths: "LeafAge.weights.bin"
